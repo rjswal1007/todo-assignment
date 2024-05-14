@@ -1,7 +1,7 @@
 This is an todo-app assignment built to showcase some functionalities of redux in react.
 
 #To run the project
--> download zip folder of code from "https://github.com/rjswal1007/todo-app"
+-> download zip folder of code from "https://github.com/rjswal1007/todo-assignment"
 
 -> Extract all files
 
