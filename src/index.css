@@ -1,0 +1,68 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+body{
+  background-image: url("https://img.freepik.com/free-photo/close-up-sticky-notes-pencil-desk_23-2148581994.jpg?t=st=1715661343~exp=1715664943~hmac=b053dcbda9a1ba1befe3f99353f33351996ca2127b58900784867e4d5ec30890&w=740");
+  background-repeat: no-repeat;
+  background-size:100%;
+}
+.wrapper{
+  max-width: 1440px;
+  width: 100%;
+ 
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ 
+  
+}
+
+.custom-form{
+  width: 400px;
+  height: auto;
+  margin: 20px auto;
+}
+
+.input-and-btn{
+  display: flex;
+}
+
+.todo-box{
+  width: 400px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.todo-box .content{
+  display: flex;
+}
+
+.todo-box .content p{
+  margin-top: -6px;
+  margin-left: 6px;
+}
+
+.todo-box span{
+  margin: 0 5px;
+}
+
+.delete-all{
+  width: 400px;
+}
+
+.actions-box{
+  cursor: pointer;
+}
+
+.back-btn{
+  margin-top: 5px;
+  width: 100%;
+}
